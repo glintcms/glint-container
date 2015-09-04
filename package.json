@@ -1,0 +1,35 @@
+{
+  "name": "glint-container",
+  "version": "1.0.0",
+  "description": "glint container for blocks",
+  "keywords": [
+    "glintcms",
+    "glint",
+    "cms",
+    "node.js cms",
+    "inline editing",
+    "modular cms",
+    "container"
+  ],
+  "author": "Andi Neck",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/glintcms/glint-container.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "dependencies": {
+    "debug": "^2.1.1",
+    "defaults": "^1.0.2",
+    "ent": "^2.2.0",
+    "inherits": "^2.0.1",
+    "is-browser": "^2.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/glintcms/glint-container/issues"
+  },
+  "homepage": "https://github.com/glintcms/glint-container"
+}
