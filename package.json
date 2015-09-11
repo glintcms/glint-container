@@ -22,9 +22,9 @@
     "test": "npm test"
   },
   "dependencies": {
-    "debug": "^2.1.1",
+    "debug": "^2.2.0",
     "defaults": "^1.0.2",
-    "ent": "^2.2.0",
+    "glint-util": "^1.0.0",
     "inherits": "^2.0.1",
     "is-browser": "^2.0.1"
   },
