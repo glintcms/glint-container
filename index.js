@@ -1,7 +1,7 @@
 /**
  * Module dependencies.
  */
-var debug = require('debug')('glint:Container');
+var debug = require('debug')('glint-container');
 var isBrowser = require('is-browser');
 var defaults = require('defaults');
 var inherits = require('inherits');
